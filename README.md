@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logoColor=white"/>
+# Kyung_Ho's World!!!
+## 🧑🏻‍💻 STUDYING LANGUAGES 🧑🏻‍💻
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logoColor=white"/>
 <!--
 **h0h0h000/h0h0h000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
