@@ -49,9 +49,13 @@ C 뱃지
 -->
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
  
-<img src="https://img.shields.io/badge/-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
  
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
+ 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  
 ### Tools
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -59,10 +63,9 @@ C 뱃지
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
  
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
- 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<br></br>
 
- <br></br>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  
  
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
