@@ -26,7 +26,7 @@
 
 # 🧑🏻‍💻 Tools & Languages 🧑🏻‍💻
 
-### Favorite Languages
+### 🛠 Favorite Languages 🛠
 <!--
 안드로이드 뱃지
 -->
@@ -43,7 +43,7 @@ IOS 뱃지
 
 
 
-### I've used at least once  
+### 🛠 I've used at least once 🛠 
 <!--
 C 뱃지
 -->
@@ -56,8 +56,12 @@ C 뱃지
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<br></br>
+<img src="https://img.shields.io/badge/Linux-007ACC?style=flat-square&logo=Linux&logoColor=white"/>
+
+
  
-### Tools
+### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
@@ -68,7 +72,13 @@ C 뱃지
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  
  
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-FCC624?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<br></br>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/>
+
 <br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0h0h000)](https://github.com/anuraghazra/github-readme-stats)
