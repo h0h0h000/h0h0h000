@@ -17,14 +17,10 @@
 <!--
 노션 링크걸기
 -->
-  <a href="https://educated-trilby-4ee.notion.site/Want-to-Be-a-Mobile-developer-70ab01539b554171bb57108faac665b5"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<!--
-인스타그램 링크걸기
--->
-<a href="https://www.instagram.com/ho.0.ho00/"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<!--
+  <a href="https://educated-trilby-4ee.notion.site/Want-to-Be-a-Mobile-developer-70ab01539b554171bb57108faac665b5" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Notion&logoColor=white"/></a><!--인스타그램 링크걸기--><a href="https://www.instagram.com/ho.0.ho00/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><!--
 이메일 링크 걸기 링크걸기
 -->
+<a href="mailto:hohoho00@sch.ac.kr" target="_blank">
 <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=GMail&logoColor=white"/>
 
 
