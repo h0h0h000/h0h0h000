@@ -6,6 +6,10 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Introduce%20KYUNGHO&fontSize=70)
   
  # For my Future 🤔
+ 개발이라는 영역에 2021년에 처음 발을 들여 봤습니다.  
+ Computer Science쪽을 공부하면서 이쪽 공부는 끝이 없구나를 느끼면서  
+ 모바일로 개발영역에 뛰어들어보자 라는 생각으로 공부를 하고 있습니다.  
+ 최종 목적은 모바일 보안을 위해 힘쓰는 일을 하는 것입니다.  
 
 
 
