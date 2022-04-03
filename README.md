@@ -5,14 +5,13 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Introduce%20KYUNGHO&fontSize=70)
   
- 
- # ABOUT ME
-  ### 🔭 I’m studying at Soonchunhyang University.<br></br>
-  ### 🌱 I’m currently learning mobile developing.<br></br>
-  ### ✔️ I'm interested in mobile AI&Security.<br></br>
-  
-  
-  ### 📫 How to reach me: 
+ # For my Future 🤔
+
+
+
+
+
+### 📫 How to reach me: 
 
 <!--
 노션 링크걸기
@@ -22,7 +21,12 @@
 -->
 <a href="mailto:hohoho00@sch.ac.kr" target="_blank">
 <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=GMail&logoColor=white"/>
-
+ 
+ # 👨🏻‍🎓 ABOUT ME 👨🏻‍🎓
+  ### 🔭 I’m studying at Soonchunhyang University.<br></br>
+  ### 🌱 I’m currently learning mobile developing.<br></br>
+  ### ✔️ I'm interested in mobile AI&Security.<br></br>
+  
 
 # 🧑🏻‍💻 Tools & Languages 🧑🏻‍💻
 
@@ -82,15 +86,16 @@ C 뱃지
 <br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0h0h000)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
 </div>
-
-
-
-
-
-
-
-
 
 
 
