@@ -3,7 +3,7 @@
 제목 부분
 -->
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Introduce%20KYUNGHO&fontSize=70)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=경호의%20개발세발%20개발일지&fontSize=70)
   
  # For my Future 🤔
  개발이라는 영역에 2021년에 처음 발을 들여 봤습니다.  
